@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'googleBottomBar.dart';
+import 'view/googleBottomBar.dart';
 
 void main() {
   runApp(MyApp());
