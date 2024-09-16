@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "../../../../../laragon/www/catSense"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/travel-app-ui-master"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "JS"
+    }
+}
