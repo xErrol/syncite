@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459147193945",
+    "project_id": "nemsync-syncite",
+    "storage_bucket": "nemsync-syncite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459147193945:android:8c2ff1b6516fddb71a4b48",
+        "android_client_info": {
+          "package_name": "com.sabanal_salimpuran_serna.syncite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd56YvEheA6dF_144vHsCXLuVNtVf087M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
